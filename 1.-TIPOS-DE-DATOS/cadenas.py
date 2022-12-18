@@ -32,7 +32,7 @@ my_mod_str = "yes," + my_str[5:]
 print(my_mod_str)
 
 #Multiplicar una cadena de texto
-letra = 'z'
+letra = 'z' 
 
 print(letra * 3)
 
@@ -73,3 +73,4 @@ print(f"ejemplo de f string,añadido : {valor_añadido} , {'valor añadido direc
 
 
 
+print('LopCuns')
