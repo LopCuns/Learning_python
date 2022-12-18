@@ -1,0 +1,6 @@
+Apuntes de el curso de python "Curso Programación Python - De Cero a Heroe" de el canal Solo Python
+enlace al canal-->https://www.youtube.com/@SoloPython
+enlace al curso-->https://www.youtube.com/watch?v=ppz1e_ceeIw&t=
+
+
+--Apuntes y código realizados por LopCuns(https://github.com/LopCuns/)
