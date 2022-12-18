@@ -72,5 +72,3 @@ print(f"ejemplo de f string,añadido : {valor_añadido} , {'valor añadido direc
 
 
 
-
-print('LopCuns')
