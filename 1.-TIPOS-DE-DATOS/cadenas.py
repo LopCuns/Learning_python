@@ -69,6 +69,5 @@ print("el número pi equivale a : {pi:1.5f}".format(pi = math_pi))
 valor_añadido = "valor añadido por variable"
 print(f"ejemplo de f string,añadido : {valor_añadido} , {'valor añadido directamente'}")
 
-
-
-
+conjunto = "abcdefghijklmnñopqrstuvwxyz1234567890"
+print(f"las letras del abecedario son :{conjunto[0:-10]} ; los números son:{conjunto[-10:]}")
