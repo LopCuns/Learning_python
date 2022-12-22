@@ -12,8 +12,18 @@ def decrypt(message):
         decrypted_list.append(list(correspondences.keys())[list(correspondences.values()).index(char)])
  
     return ''.join(map(str,decrypted_list))
+def program():
+    menu = input('Ingresa 1 si quieres encriptar un mensaje e ingresa 2 si quieres desencriptar un mensaje... ')
+    if not(int(menu) in [1,2]):
+        print('opción no válida...')
+        program()
+        return 
+    mensaje = input('Ingresa el mensaje... ')
+    if int(menu)==1:
+        print(encrypt(mensaje))
+    else:
+        print(decrypt(mensaje))
 
-
-print(encrypt('Este es un programa capaz de encriptar cualquier mensaje que le pases y despues desencriptarlo usando las correspondencias arriba señaladas'))
+program()
 
 

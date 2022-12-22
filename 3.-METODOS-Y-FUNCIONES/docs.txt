@@ -1,0 +1,1 @@
+Enlace a la documentación oficial de métodos y funciones:https://docs.python.org/3/library/stdtypes.html#functions
