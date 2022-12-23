@@ -16,6 +16,7 @@ gruñon.ladrar()
 
 
 
+
 # HERENCIA Y POLIMORFISMO
 # A partir de la clase Animal, vamos a crear la clase gato y cabra (dos polimorfos de animal) que van a heredar sus atributos y funciones
 class Animal:

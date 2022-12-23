@@ -1,0 +1,19 @@
+Muchas veces conbiene usar librerias creadas por otros usuarios para que no tengamos que estar rehaciendo un código ya existente.
+Para eso tenemos pip y PyPi (https://pypi.org).
+
+Para instalar un paquete podemos hacerlo con PyPi(pip) o con conda
+
+Con pip
+
+pip install (nombre del paquete)
+
+Con conda(necesario activar un entorno conda primero)
+
+conda install (nombre del paquete)
+
+
+__name__ y __main__
+
+__name__ es una variable especial de python que depende de donde estemos corriendo un módulo.
+
+Si estamos corriendo el módulo desde el propio módulo, entonces su valor será __main__.
