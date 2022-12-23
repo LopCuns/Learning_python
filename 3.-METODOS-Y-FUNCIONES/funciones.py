@@ -9,3 +9,11 @@ def suma(numero1,numero2):
     return numero1 + numero2
 
 print(suma(2,3))
+
+
+def check_peer(numlist):
+    check = [num % 2 == 0 for num in numlist ]
+    return list(zip(check,numlist))
+ 
+
+print(check_peer([1,2,3,4,5,6,7,8,9,10]))
