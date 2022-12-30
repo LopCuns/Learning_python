@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=odW9FU8jPRQ&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY&index=3
+
 class Node():
     def __init__(self,value,next):
         self.value = value
